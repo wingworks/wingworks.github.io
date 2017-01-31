@@ -1,9 +1,9 @@
 # Wingworks DIY Kiteboarding
 
-![Kite 3D preview](https://github.com/wingworks/GO/blob/master/GO_S_perspective.png)  
+![Kite 3D preview](https://raw.githubusercontent.com/wingworks/GO-9/master/GO_S_perspective.png)  
 3D preview
 
-![GO in action] (https://github.com/wingworks/GO/blob/master/go-kite.jpg) 
+![GO in action] (https://raw.githubusercontent.com/wingworks/GO-9/master/go-kite.jpg) 
 
 You are interested in designing and building your own tube kite? But you don't know how to start?
 Where to get the plans and the right materials?  
