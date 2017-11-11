@@ -1,2 +1,4 @@
-theme: jekyll-theme-minimal
 title: Wingworks Kiteboarding
+markdown: kramdown
+gems:
+  - jekyll-redirect-from
