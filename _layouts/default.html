@@ -1,28 +1,19 @@
 <!DOCTYPE html>
-<html>
-    <head>
-        <title>{{ page.title }}</title>
-        <!-- link to main stylesheet -->
-        <link rel="stylesheet" type="text/css" href="/css/main.css">
-    </head>
-    <body>
-        <nav>
-            <ul>
-                <li><a href="/">Home</a></li>
-                <li><a href="/about">About</a></li>
-                <li><a href="/howtos/kite-sewing/sail">Sail</a></li>
-                <li><a href="/howtos/kite-sewing/leading-edge">Leading edge</a></li>
-            </ul>
-        </nav>
-        <div class="container">
-        
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+
+  {% include head.html %}
+
+  <body>
+
+    {% include header.html %}
+
+
         {{ content }}
-        
-        </div>
-        <footer>
-            <ul>
-                <li><a href="mailto:info@wingworks.de">email</a></li>
-            </ul>
-        </footer>
-    </body>
+
+    {% include footer.html %}
+      
+    {% include script.html %}
+
+  </body>
+
 </html>
