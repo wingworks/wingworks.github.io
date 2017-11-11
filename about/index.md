@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About WingWorks
+title: About
 ---
 
 # About WingWorks

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Leading edge WingWorks
+title: Leading-Edge
 ---
 
 1. Cut the dacron
